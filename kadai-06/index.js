@@ -15,4 +15,3 @@ fs.writeFileSync(
     './kadai-06/data.json',
     JSON.stringify(object, null, 2)
 )
-
